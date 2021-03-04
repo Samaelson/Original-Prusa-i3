@@ -4,7 +4,7 @@
 Original Prusa i3 MK3S is a 3D printer project maintained by PRUSA RESEARCH.
 Originates in RepRap project.
 
-This repository contains SCAD files and STLs based on Prusa's printed parts, modified to support IBUS bearings.
+This repository contains SCAD files and STLs based on Prusa's printed parts, modified to support IBUS bearings as well as some updated parts für MMU2.
 
 **Prusa Links**
 
